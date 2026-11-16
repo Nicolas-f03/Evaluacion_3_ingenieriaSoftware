@@ -14,9 +14,12 @@
 
 - después de eso, abres el CMD de tu sistema y ejecutas los siguientes codigos
 
-  ''' pip install django '''
-  ''' pip install pymysql '''
-  ''' pip install mysqlclient'''
-  ''' pip install crispy-bootstrap5 '''
+  ``` pip install django ```
+  
+  ``` pip install pymysql ```
+  
+  ``` pip install mysqlclient```
+
+  ``` pip install crispy-bootstrap5 ```
   
 - con esto ya deberías tener todo lo necesarios para que el proyecto funcione.
